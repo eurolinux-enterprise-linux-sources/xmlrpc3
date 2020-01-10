@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/server/src/main/java/org/apache/xmlrpc/metadata"
+   committed-rev="416856"
+   kind="dir"
+   committed-date="2006-06-24T02:59:44.390081Z"/>
+<entry
+   name="ReflectiveXmlRpcMetaDataHandler.java"
+   revision="424115"
+   checksum="49cc433dea116e2e81c2d6e267be9e1e"
+   last-author="jochen"
+   text-time="2006-07-20T22:00:51.000000Z"
+   committed-rev="424115"
+   kind="file"
+   committed-date="2006-07-20T23:39:09.713000Z"
+   prop-time="2006-07-12T20:50:29.095250Z"/>
+<entry
+   name="Util.java"
+   revision="424115"
+   checksum="adfc5cba1beefc93abde583cbbbb6595"
+   last-author="jochen"
+   text-time="2006-07-20T21:37:49.000000Z"
+   committed-rev="424115"
+   kind="file"
+   committed-date="2006-07-20T23:39:09.713000Z"
+   prop-time="2006-07-12T20:50:29.110875Z"/>
+<entry
+   name="XmlRpcListableHandlerMapping.java"
+   checksum="98b03d3c60ffd0ae344ecc343ed29dc4"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:29.126500Z"
+   committed-rev="380676"
+   kind="file"
+   committed-date="2006-02-24T14:36:58.655328Z"
+   prop-time="2006-07-12T20:50:29.064000Z"/>
+<entry
+   name="XmlRpcMetaDataHandler.java"
+   checksum="dc42d8dd498757e7c6e5f376a419b3b4"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:29.126500Z"
+   committed-rev="381579"
+   kind="file"
+   committed-date="2006-02-28T06:20:07.821468Z"
+   prop-time="2006-07-12T20:50:29.079625Z"/>
+<entry
+   name="XmlRpcSystemImpl.java"
+   checksum="16d44a6d7ef8abdac3380344d690bdbc"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:29.142125Z"
+   committed-rev="382944"
+   kind="file"
+   committed-date="2006-03-03T22:10:05.068877Z"
+   prop-time="2006-07-12T20:50:29.095250Z"/>
+</wc-entries>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="416856"
+   name=""
+   committed-date="2006-06-24T02:59:44.390081Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/tests/src/test/resources/org/apache"
+   last-author="jochen"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   name="xmlrpc"
+   kind="dir"/>
+</wc-entries>

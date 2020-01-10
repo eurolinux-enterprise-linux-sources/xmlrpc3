@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="414392"
+   name=""
+   committed-date="2006-06-14T21:40:48.441089Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/src/site"
+   last-author="jochen"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   committed-rev="422130"
+   name="site.xml"
+   text-time="2006-07-15T00:45:16.531250Z"
+   committed-date="2006-07-15T01:58:34.264980Z"
+   checksum="d1d6e120234a3677b0cd32712ae80a01"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:30.985875Z"
+   revision="422130"/>
+<entry
+   name="apt"
+   kind="dir"/>
+<entry
+   name="xdoc"
+   kind="dir"/>
+<entry
+   name="fml"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common"
+   committed-rev="416946"
+   kind="dir"
+   committed-date="2006-06-24T19:36:42.749507Z"
+   prop-time="2006-07-12T20:50:36.860875Z"/>
+<entry
+   name="pom.xml"
+   revision="438613"
+   checksum="15bdcfbec5ac6d41068e9fe3f2d0557a"
+   last-author="jochen"
+   text-time="2006-08-30T19:55:25.000000Z"
+   committed-rev="438613"
+   kind="file"
+   committed-date="2006-08-30T20:38:07.686000Z"
+   prop-time="2006-07-12T20:50:36.860875Z"/>
+<entry
+   name="src"
+   kind="dir"/>
+</wc-entries>

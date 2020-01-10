@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common/src/main/java/org/apache/xmlrpc/parser"
+   committed-rev="408093"
+   kind="dir"
+   committed-date="2006-05-20T21:10:47.837221Z"/>
+<entry
+   name="AtomicParser.java"
+   checksum="1aa657ea2edbf561ad76b26da3de93d4"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.376500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.204625Z"/>
+<entry
+   name="BigDecimalParser.java"
+   checksum="453a3cfb6466c550b0e37dffd2e68b37"
+   last-author="hgomez"
+   text-time="2006-07-12T20:50:35.501500Z"
+   committed-rev="404968"
+   kind="file"
+   committed-date="2006-05-08T08:36:41.843497Z"
+   prop-time="2006-07-12T20:50:35.235875Z"/>
+<entry
+   name="BigIntegerParser.java"
+   checksum="c5b1460352417058e6f3678c3c635f58"
+   last-author="hgomez"
+   text-time="2006-07-12T20:50:35.454625Z"
+   committed-rev="404968"
+   kind="file"
+   committed-date="2006-05-08T08:36:41.843497Z"
+   prop-time="2006-07-12T20:50:35.235875Z"/>
+<entry
+   name="BooleanParser.java"
+   checksum="7e88a411b28ad528b272b5cb1e9ace61"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.439000Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.220250Z"/>
+<entry
+   name="ByteArrayParser.java"
+   checksum="57275a8fff84e9ecb81e2e36d081ce30"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.298375Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.142125Z"/>
+<entry
+   name="CalendarParser.java"
+   checksum="a974b38dd2260a900001e72e5da3fbe9"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.329625Z"
+   committed-rev="408093"
+   kind="file"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   prop-time="2006-07-12T20:50:35.173375Z"/>
+<entry
+   name="DateParser.java"
+   revision="433819"
+   checksum="57adda4c5f10aae1671dbf99e6046bdd"
+   last-author="jochen"
+   text-time="2006-08-23T01:10:02.000000Z"
+   committed-rev="433819"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:35.220250Z"/>
+<entry
+   name="DoubleParser.java"
+   checksum="0193eaf2e329ad5358f8625432f916f8"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.345250Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.173375Z"/>
+<entry
+   name="ExtParser.java"
+   checksum="c073a509fc3536f2a1694f058c842fa3"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.282750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.142125Z"/>
+<entry
+   name="FloatParser.java"
+   checksum="e9361707ae29f128060edd561f911120"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.298375Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.142125Z"/>
+<entry
+   name="I1Parser.java"
+   checksum="584c1aaa7b4c18d86487d1ef5a9e65de"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.329625Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.157750Z"/>
+<entry
+   name="I2Parser.java"
+   checksum="b5f973e90f7147b4213de284444d79ff"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.345250Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.173375Z"/>
+<entry
+   name="I4Parser.java"
+   checksum="fa642df6c7b6b5efcfc4ac55113d9971"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.360875Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.204625Z"/>
+<entry
+   name="I8Parser.java"
+   checksum="f6e87dacc63dbbc9a2324c197c9eae65"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.470250Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.235875Z"/>
+<entry
+   name="LongParser.java"
+   checksum="d706fb3964fbb182bac11a82dedd64b9"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.282750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.126500Z"/>
+<entry
+   name="MapParser.java"
+   checksum="fcc5eb9822cad6b6d2b0c5eee0f9ad6d"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.376500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.220250Z"/>
+<entry
+   name="NodeParser.java"
+   checksum="58a42fe1659c01e83529184506d5592c"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.251500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.126500Z"/>
+<entry
+   name="NullParser.java"
+   checksum="7da515d498202e3fa0752e270bc0e840"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.360875Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.204625Z"/>
+<entry
+   name="ObjectArrayParser.java"
+   checksum="9b446adc33792b71bc9c27b2d5317ddd"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.314000Z"
+   committed-rev="380254"
+   kind="file"
+   committed-date="2006-02-23T22:35:40.130076Z"
+   prop-time="2006-07-12T20:50:35.157750Z"/>
+<entry
+   name="RecursiveTypeParserImpl.java"
+   checksum="5941bd892326cf7e341320e67808679a"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.267125Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.126500Z"/>
+<entry
+   name="SerializableParser.java"
+   checksum="49bf6bd4918d291da213c8c42a2bd4e3"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.314000Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.157750Z"/>
+<entry
+   name="StringParser.java"
+   checksum="3b8df89d15c40daaaf02448f46051e2f"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.329625Z"
+   committed-rev="380254"
+   kind="file"
+   committed-date="2006-02-23T22:35:40.130076Z"
+   prop-time="2006-07-12T20:50:35.157750Z"/>
+<entry
+   name="TypeParser.java"
+   checksum="3577ae63268499baed69d6f2c9596fd8"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.501500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.235875Z"/>
+<entry
+   name="TypeParserImpl.java"
+   checksum="ceb87ba9c51f5f82cef5dba90e70742c"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.298375Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.142125Z"/>
+<entry
+   name="XmlRpcRequestParser.java"
+   checksum="d822653cee4b5a67619971babb3cce10"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.407750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.220250Z"/>
+<entry
+   name="XmlRpcResponseParser.java"
+   checksum="abd5914ad5dca7284129ecbfceda4a6a"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:35.251500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:35.110875Z"/>
+</wc-entries>

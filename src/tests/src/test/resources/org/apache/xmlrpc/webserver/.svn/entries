@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="379644"
+   name=""
+   committed-date="2006-02-22T01:12:16.973872Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/tests/src/test/resources/org/apache/xmlrpc/webserver"
+   last-author="jochen"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   committed-rev="378630"
+   name="XmlRpcServlet.properties"
+   text-time="2006-07-12T20:50:28.189000Z"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   checksum="01fb6b6de321987979a3582bedafc58b"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:28.173375Z"/>
+</wc-entries>

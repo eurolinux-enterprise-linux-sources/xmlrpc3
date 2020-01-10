@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="379644"
+   name=""
+   committed-date="2006-02-22T01:12:16.973872Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common/src/main/java/org/apache/xmlrpc/jaxb"
+   last-author="jochen"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   committed-rev="378632"
+   name="JaxbParser.java"
+   text-time="2006-07-12T20:50:33.189000Z"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   checksum="127682a337df2ab45bfcef25fa0431c5"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.126500Z"/>
+<entry
+   committed-rev="378632"
+   name="JaxbSerializer.java"
+   text-time="2006-07-12T20:50:33.204625Z"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   checksum="696d01c79eb9cd880d99d66ae066f88b"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.142125Z"/>
+<entry
+   committed-rev="378632"
+   name="JaxbTypeFactory.java"
+   text-time="2006-07-12T20:50:33.235875Z"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   checksum="593af6e5da0e52013c00c7784c454fc6"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.173375Z"/>
+</wc-entries>

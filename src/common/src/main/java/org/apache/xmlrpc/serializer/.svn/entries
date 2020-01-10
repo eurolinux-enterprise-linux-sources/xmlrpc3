@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"
+   last-author="jochen"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common/src/main/java/org/apache/xmlrpc/serializer"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="408093"
+   kind="dir"
+   committed-date="2006-05-20T21:10:47.837221Z"/>
+<entry
+   name="BaseXmlWriterFactory.java"
+   checksum="0eca9fea3270eb561da31c894ffcf1ba"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.907750Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.360875Z"/>
+<entry
+   name="BigDecimalSerializer.java"
+   checksum="64718bcf1d869548b30016f4e9c72647"
+   last-author="hgomez"
+   committed-rev="404968"
+   text-time="2006-07-12T20:50:34.876500Z"
+   kind="file"
+   committed-date="2006-05-08T08:36:41.843497Z"
+   prop-time="2006-07-12T20:50:34.329625Z"/>
+<entry
+   name="BigIntegerSerializer.java"
+   checksum="d530b1103d795a3b408d512efa16f9bb"
+   last-author="hgomez"
+   committed-rev="404968"
+   text-time="2006-07-12T20:50:34.845250Z"
+   kind="file"
+   committed-date="2006-05-08T08:36:41.843497Z"
+   prop-time="2006-07-12T20:50:34.314000Z"/>
+<entry
+   name="BooleanSerializer.java"
+   checksum="427666650274ffd5465cace1a8578a1b"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.829625Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.314000Z"/>
+<entry
+   name="ByteArraySerializer.java"
+   checksum="65b560fbdf02979a3c848b47f74fd919"
+   last-author="jochen"
+   committed-rev="393227"
+   text-time="2006-07-12T20:50:34.954625Z"
+   kind="file"
+   committed-date="2006-04-11T14:25:41.702433Z"
+   prop-time="2006-07-12T20:50:34.407750Z"/>
+<entry
+   name="CalendarSerializer.java"
+   checksum="ce7ebabaccc4ffbd6b53366541986568"
+   last-author="jochen"
+   committed-rev="408093"
+   text-time="2006-07-12T20:50:34.735875Z"
+   kind="file"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   prop-time="2006-07-12T20:50:34.235875Z"/>
+<entry
+   name="CharSetXmlWriterFactory.java"
+   revision="427245"
+   checksum="de9b3eee264c7461bda0d19ae9d08a00"
+   last-author="jochen"
+   committed-rev="427245"
+   text-time="2006-07-31T20:24:08.000000Z"
+   kind="file"
+   committed-date="2006-07-31T20:34:04.873000Z"
+   prop-time="2006-07-12T20:50:34.157750Z"/>
+<entry
+   name="DateSerializer.java"
+   revision="433819"
+   checksum="27a9d98c6062407ea78c0bc8b6b93544"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:03:10.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:34.282750Z"/>
+<entry
+   name="DefaultXMLWriterFactory.java"
+   checksum="997053e8d7f679046ecbcaea02606f9a"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.939000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.376500Z"/>
+<entry
+   name="DoubleSerializer.java"
+   checksum="447258731e07c468d2902d4278d0d545"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.767125Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.251500Z"/>
+<entry
+   name="ExtSerializer.java"
+   checksum="0048de5a031081dcabe64224968116ff"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.923375Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.376500Z"/>
+<entry
+   name="FloatSerializer.java"
+   checksum="12f69e59ddbefd92510329e73af403cf"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.517125Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.142125Z"/>
+<entry
+   name="I1Serializer.java"
+   checksum="7a898ef73339a11bd8692abb18f9e3fc"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.720250Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.220250Z"/>
+<entry
+   name="I2Serializer.java"
+   checksum="437960fe1084e9eb1fe922e794e0b14b"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.751500Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.235875Z"/>
+<entry
+   name="I4Serializer.java"
+   checksum="2809abc19a2c903a478aa998f5906e58"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.798375Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.282750Z"/>
+<entry
+   name="I8Serializer.java"
+   checksum="6b71fc9d57b7165ad13cd985b045599e"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.860875Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.329625Z"/>
+<entry
+   name="ListSerializer.java"
+   checksum="fd6e251c9b7a21f6c7a74af66594c174"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.782750Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.267125Z"/>
+<entry
+   name="MapSerializer.java"
+   checksum="1b37cba8c5b43b374b46861e2533decd"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.814000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.298375Z"/>
+<entry
+   name="NodeSerializer.java"
+   checksum="1d1b98a8e21c0448bea937898569b2e6"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.892125Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.345250Z"/>
+<entry
+   name="NullSerializer.java"
+   checksum="17de61ed7b3742e60ff826dae123b3c1"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.767125Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.251500Z"/>
+<entry
+   name="ObjectArraySerializer.java"
+   checksum="2cc666965d44ea0f42490d6dbcb25616"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.657750Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.189000Z"/>
+<entry
+   name="SerializableSerializer.java"
+   checksum="57c85b8164e8279f16021741f212dd54"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.689000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.189000Z"/>
+<entry
+   name="StringSerializer.java"
+   checksum="bb835e98fe1a8e9d1026d754dacb543c"
+   last-author="jochen"
+   committed-rev="380254"
+   text-time="2006-07-12T20:50:34.704625Z"
+   kind="file"
+   committed-date="2006-02-23T22:35:40.130076Z"
+   prop-time="2006-07-12T20:50:34.204625Z"/>
+<entry
+   name="TypeSerializer.java"
+   checksum="ada5c1a63ffaae142f61eed2c690d0e0"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.876500Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.345250Z"/>
+<entry
+   name="TypeSerializerImpl.java"
+   checksum="4c5d8ff0a13858c00bbdba83e9cb0c70"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.970250Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.454625Z"/>
+<entry
+   name="XmlRpcWriter.java"
+   checksum="e72915cc985d7ef7504caaaf61568cc3"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.720250Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.220250Z"/>
+<entry
+   name="XmlWriterFactory.java"
+   checksum="27991627caf4cdc672318749cf3ed294"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:34.923375Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:34.360875Z"/>
+</wc-entries>

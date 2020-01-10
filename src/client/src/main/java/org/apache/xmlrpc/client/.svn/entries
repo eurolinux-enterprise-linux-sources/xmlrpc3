@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/client/src/main/java/org/apache/xmlrpc/client"
+   committed-rev="416856"
+   kind="dir"
+   committed-date="2006-06-24T02:59:44.390081Z"/>
+<entry
+   name="AsyncCallback.java"
+   checksum="4fc2d7bffbf7d6d7f267025031babe1e"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.767125Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.064000Z"/>
+<entry
+   name="TimingOutCallback.java"
+   revision="421415"
+   checksum="6cd9250f0f46bbed86df4b645cb60f8e"
+   last-author="jochen"
+   text-time="2006-07-12T21:12:17.798375Z"
+   committed-rev="421415"
+   kind="file"
+   committed-date="2006-07-12T21:16:15.063061Z"
+   prop-time="2006-07-12T20:50:38.079625Z"/>
+<entry
+   name="XmlRpcClient.java"
+   checksum="e7604748b1a2ffc4745c1c7299f74f06"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.517125Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:37.907750Z"/>
+<entry
+   name="XmlRpcClientConfig.java"
+   checksum="86c5fc7e99988fe4ac955b6164b8e11b"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.751500Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.064000Z"/>
+<entry
+   name="XmlRpcClientConfigImpl.java"
+   checksum="a0543fcd95761345c7be5b1cc5cfaa0d"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.626500Z"
+   committed-rev="379644"
+   kind="file"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   prop-time="2006-07-12T20:50:37.970250Z"/>
+<entry
+   name="XmlRpcClientException.java"
+   checksum="648efe73248b22f34c8e237bd3782f21"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.673375Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.001500Z"/>
+<entry
+   name="XmlRpcClientRequestImpl.java"
+   revision="423613"
+   checksum="179bd9134b8334a0d09442b4fe3d647c"
+   last-author="jochen"
+   text-time="2006-07-19T21:14:58.000000Z"
+   committed-rev="423613"
+   kind="file"
+   committed-date="2006-07-19T21:19:55.432000Z"
+   prop-time="2006-07-12T20:50:37.860875Z"/>
+<entry
+   name="XmlRpcClientWorker.java"
+   checksum="6f5af252a182d7d27bf52a81da85bfa9"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.814000Z"
+   committed-rev="388849"
+   kind="file"
+   committed-date="2006-03-25T22:59:47.379767Z"
+   prop-time="2006-07-12T20:50:38.345250Z"/>
+<entry
+   name="XmlRpcClientWorkerFactory.java"
+   checksum="ade991c330a9e21c41b8b52444445301"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.704625Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.017125Z"/>
+<entry
+   name="XmlRpcCommonsTransport.java"
+   revision="432707"
+   checksum="f0a5c4549a0e0c947615b9aaffbdfa7d"
+   last-author="jochen"
+   text-time="2006-08-18T21:27:21.000000Z"
+   committed-rev="432707"
+   kind="file"
+   committed-date="2006-08-18T20:05:03.753000Z"
+   prop-time="2006-07-12T20:50:37.985875Z"/>
+<entry
+   name="XmlRpcCommonsTransportFactory.java"
+   revision="432537"
+   checksum="aaf2d7ca209b76854b72ebb1013ecea9"
+   last-author="jochen"
+   text-time="2006-08-18T10:39:15.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.939000Z"/>
+<entry
+   name="XmlRpcHttpClientConfig.java"
+   checksum="9a6019787ebbb68e21b7fd941b3358ca"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.735875Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.048375Z"/>
+<entry
+   name="XmlRpcHttpTransport.java"
+   revision="432537"
+   checksum="13f8bad252dd9c252f38fc935d0c4bfd"
+   last-author="jochen"
+   text-time="2006-08-18T10:51:05.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.985875Z"/>
+<entry
+   name="XmlRpcLiteHttpTransport.java"
+   revision="436682"
+   checksum="fb328edf537058a2b4eacf380809200b"
+   last-author="jochen"
+   text-time="2006-08-25T09:15:31.000000Z"
+   committed-rev="436682"
+   kind="file"
+   committed-date="2006-08-25T06:50:25.221000Z"
+   prop-time="2006-07-12T20:50:37.876500Z"/>
+<entry
+   name="XmlRpcLiteHttpTransportFactory.java"
+   checksum="74da8c132b4924f513dd14dc2d065186"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.720250Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.032750Z"/>
+<entry
+   name="XmlRpcLocalClientConfig.java"
+   checksum="71869189dee9544a0d7ddb022601a24c"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.548375Z"
+   committed-rev="379644"
+   kind="file"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   prop-time="2006-07-12T20:50:37.923375Z"/>
+<entry
+   name="XmlRpcLocalStreamTransport.java"
+   revision="432537"
+   checksum="80a895336d7d07a98d682f216015384f"
+   last-author="jochen"
+   text-time="2006-08-18T10:37:04.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.954625Z"/>
+<entry
+   name="XmlRpcLocalStreamTransportFactory.java"
+   revision="432537"
+   checksum="26f0d4802dfe7ba3566ea9b93b34d9ea"
+   last-author="jochen"
+   text-time="2006-08-18T10:35:50.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.907750Z"/>
+<entry
+   name="XmlRpcLocalTransport.java"
+   checksum="15b9c0ddaf9d4e50761610d1b58ea4fa"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.798375Z"
+   committed-rev="416856"
+   kind="file"
+   committed-date="2006-06-24T02:59:44.390081Z"
+   prop-time="2006-07-12T20:50:38.095250Z"/>
+<entry
+   name="XmlRpcLocalTransportFactory.java"
+   checksum="3e5e2afb703ac56a25185fbc6cd4aa55"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.689000Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.017125Z"/>
+<entry
+   name="XmlRpcStreamTransport.java"
+   revision="432537"
+   checksum="3e86acaf8f7ea919c312cd9d247637d2"
+   last-author="jochen"
+   text-time="2006-08-18T11:19:50.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:38.345250Z"/>
+<entry
+   name="XmlRpcStreamTransportFactory.java"
+   checksum="71fc4bc194ef2bc6dc1d969442ea1445"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.704625Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.032750Z"/>
+<entry
+   name="XmlRpcSunHttpTransport.java"
+   revision="432537"
+   checksum="4f34d2bea174c40b212167a3d642c5cf"
+   last-author="jochen"
+   text-time="2006-08-18T10:31:59.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.939000Z"/>
+<entry
+   name="XmlRpcSunHttpTransportFactory.java"
+   checksum="4482ae14c8b360b804ab5026f483d1f4"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.439000Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:37.892125Z"/>
+<entry
+   name="XmlRpcTransport.java"
+   checksum="6928fe6c76513ee7fc96fd3ebe786dcc"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.657750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.001500Z"/>
+<entry
+   name="XmlRpcTransportFactory.java"
+   revision="432537"
+   checksum="205e1b28d33787da66608cb0dd76b32c"
+   last-author="jochen"
+   text-time="2006-08-17T22:03:23.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:37.954625Z"/>
+<entry
+   name="XmlRpcTransportFactoryImpl.java"
+   checksum="db8041a9ba18bbfd8ef45b67678eff8c"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.782750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:38.079625Z"/>
+<entry
+   name="XmlRpcTransportImpl.java"
+   checksum="8c550a56fa30afcacf92920c5226bf06"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:38.532750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:37.923375Z"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

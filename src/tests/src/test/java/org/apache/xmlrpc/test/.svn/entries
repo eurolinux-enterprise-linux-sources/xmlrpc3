@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"
+   last-author="jochen"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/tests/src/test/java/org/apache/xmlrpc/test"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="416856"
+   kind="dir"
+   committed-date="2006-06-24T02:59:44.390081Z"/>
+<entry
+   name="AuthenticationTest.java"
+   revision="432707"
+   checksum="75d044494e3efb14b5ad52fadc29aa83"
+   last-author="jochen"
+   text-time="2006-08-18T21:01:50.000000Z"
+   committed-rev="432707"
+   kind="file"
+   committed-date="2006-08-18T20:05:03.753000Z"/>
+<entry
+   name="BaseTest.java"
+   revision="424115"
+   checksum="3532401a630d3a17e892e6f2c39206c5"
+   last-author="jochen"
+   committed-rev="424115"
+   text-time="2006-07-20T22:59:10.000000Z"
+   kind="file"
+   committed-date="2006-07-20T23:39:09.713000Z"
+   prop-time="2006-07-12T20:50:26.735875Z"/>
+<entry
+   name="ClientProvider.java"
+   revision="433819"
+   checksum="a0cbbfd83edff8c8a347ce9df5a65ccc"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:36:01.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.720250Z"/>
+<entry
+   name="ClientProviderImpl.java"
+   checksum="48ce5558d45e8a2e2f82f2ce4a6cfa98"
+   last-author="jochen"
+   committed-rev="378630"
+   text-time="2006-07-12T20:50:26.939000Z"
+   kind="file"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   prop-time="2006-07-12T20:50:26.751500Z"/>
+<entry
+   name="CommonsProvider.java"
+   checksum="ed357035837317f43d4bb70b4780ab36"
+   last-author="jochen"
+   committed-rev="378630"
+   text-time="2006-07-12T20:50:26.876500Z"
+   kind="file"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   prop-time="2006-07-12T20:50:26.704625Z"/>
+<entry
+   name="CustomTypesTest.java"
+   revision="433819"
+   checksum="47398c6d69548c18ebb19b5318a3b24d"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:44:12.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"/>
+<entry
+   name="DynamicProxyTest.java"
+   revision="432372"
+   checksum="c528951a28bbc60e1ca5a28dc161a7e7"
+   last-author="jochen"
+   committed-rev="432372"
+   text-time="2006-08-17T21:41:00.000000Z"
+   kind="file"
+   committed-date="2006-08-17T20:14:17.956000Z"
+   prop-time="2006-07-12T20:50:26.720250Z"/>
+<entry
+   name="JiraTest.java"
+   revision="424115"
+   checksum="357e64fd2d1bd985cf8d347701ca62a4"
+   last-author="jochen"
+   committed-rev="424115"
+   text-time="2006-07-20T22:59:59.000000Z"
+   kind="file"
+   committed-date="2006-07-20T23:39:09.713000Z"
+   prop-time="2006-07-12T20:50:26.689000Z"/>
+<entry
+   name="LiteTransportProvider.java"
+   checksum="6d86a700271c7b1bf134ce6cb20d616b"
+   last-author="jochen"
+   committed-rev="378630"
+   text-time="2006-07-12T20:50:26.860875Z"
+   kind="file"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   prop-time="2006-07-12T20:50:26.704625Z"/>
+<entry
+   name="LocalStreamTransportProvider.java"
+   revision="433819"
+   checksum="af3e5e01178de41451064038d663694e"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:54:43.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.782750Z"/>
+<entry
+   name="LocalTransportProvider.java"
+   revision="433819"
+   checksum="b323bbf7745e9189ca9418dca480ee85"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:50:54.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.673375Z"/>
+<entry
+   name="ParserTest.java"
+   checksum="1bde7fff59be37373ee2537e47f24863"
+   last-author="jochen"
+   committed-rev="380254"
+   text-time="2006-07-12T20:50:26.954625Z"
+   kind="file"
+   committed-date="2006-02-23T22:35:40.130076Z"
+   prop-time="2006-07-12T20:50:26.767125Z"/>
+<entry
+   name="ScalabilityTest.java"
+   revision="436953"
+   checksum="20dad355bfad4ee7d43582991cb95f3b"
+   last-author="jochen"
+   committed-rev="436953"
+   text-time="2006-08-23T22:25:25.000000Z"
+   kind="file"
+   committed-date="2006-08-25T21:09:58.070000Z"/>
+<entry
+   name="SerializerTest.java"
+   revision="433819"
+   checksum="caf33904c431ffd5cc99180bf5fc4c2d"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:28:45.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.735875Z"/>
+<entry
+   name="ServletWebServerProvider.java"
+   revision="433819"
+   checksum="1a6356b95c8492c919f2ec6166e22750"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:37:14.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.689000Z"/>
+<entry
+   name="SunHttpTransportProvider.java"
+   checksum="0254e375d683999daf90c407a8be5a73"
+   last-author="jochen"
+   committed-rev="378630"
+   text-time="2006-07-12T20:50:26.954625Z"
+   kind="file"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   prop-time="2006-07-12T20:50:26.767125Z"/>
+<entry
+   name="WebServerProvider.java"
+   revision="433819"
+   checksum="0ce656372a836b87d479f1b707817bcf"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:37:46.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.642125Z"/>
+<entry
+   name="XmlRpcTestCase.java"
+   revision="433819"
+   checksum="f3e8dbf506d3957251d26ab58e37bb9c"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T01:23:00.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:26.673375Z"/>
+</wc-entries>

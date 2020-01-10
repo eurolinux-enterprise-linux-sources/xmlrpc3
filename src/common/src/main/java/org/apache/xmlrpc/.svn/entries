@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="416856"
+   name=""
+   committed-date="2006-06-24T02:59:44.390081Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common/src/main/java/org/apache/xmlrpc"
+   last-author="jochen"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   committed-rev="379644"
+   name="XmlRpcHandler.java"
+   text-time="2006-07-12T20:50:36.423375Z"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   checksum="a5794651bee4c9bba16703205753de1f"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.001500Z"/>
+<entry
+   name="jaxb"
+   kind="dir"/>
+<entry
+   committed-rev="380670"
+   name="XmlRpcException.java"
+   text-time="2006-07-12T20:50:36.423375Z"
+   committed-date="2006-02-24T13:46:40.135735Z"
+   checksum="d419fc543c54e8b473655bdd728a22fc"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.048375Z"/>
+<entry
+   committed-rev="379644"
+   name="XmlRpcRequestConfig.java"
+   text-time="2006-07-12T20:50:36.501500Z"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   checksum="971c4855eb2abf449e200350c0ce4889"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:33.048375Z"/>
+<entry
+   name="common"
+   kind="dir"/>
+<entry
+   name="serializer"
+   kind="dir"/>
+<entry
+   committed-rev="408093"
+   name="XmlRpcConfig.java"
+   text-time="2006-07-12T20:50:36.564000Z"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   checksum="64d83996e572a304a3817e9f3f4147fa"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:35.017125Z"/>
+<entry
+   name="parser"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+<entry
+   committed-rev="408093"
+   name="XmlRpcConfigImpl.java"
+   text-time="2006-07-12T20:50:36.595250Z"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   checksum="5e3175a3dfbddebb1d3bc48fd48d6564"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:35.595250Z"/>
+<entry
+   committed-rev="379644"
+   name="XmlRpcRequest.java"
+   text-time="2006-07-12T20:50:36.610875Z"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   checksum="d4d0061e63383f7ebf58a103f606ce33"
+   last-author="jochen"
+   kind="file"
+   prop-time="2006-07-12T20:50:36.407750Z"/>
+</wc-entries>

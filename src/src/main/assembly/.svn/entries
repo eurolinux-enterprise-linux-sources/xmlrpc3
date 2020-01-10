@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"
+   last-author="jochen"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/src/main/assembly"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="415774"
+   kind="dir"
+   committed-date="2006-06-20T19:15:37.817241Z"/>
+<entry
+   name="bin.xml"
+   revision="425581"
+   checksum="f10f2431657918c84f9202e1e8a5553b"
+   last-author="jochen"
+   committed-rev="425581"
+   text-time="2006-07-24T21:09:02.000000Z"
+   kind="file"
+   committed-date="2006-07-26T01:05:58.290000Z"
+   prop-time="2006-07-12T20:50:30.673375Z"/>
+<entry
+   name="src.xml"
+   checksum="c2362d1ed9a862d057b24fe75e9d3806"
+   last-author="jochen"
+   committed-rev="415774"
+   text-time="2006-07-12T20:50:30.689000Z"
+   kind="file"
+   committed-date="2006-06-20T19:15:37.817241Z"
+   prop-time="2006-07-12T20:50:30.657750Z"/>
+</wc-entries>

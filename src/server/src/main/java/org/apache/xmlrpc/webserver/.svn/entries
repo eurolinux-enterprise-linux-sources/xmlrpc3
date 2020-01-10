@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.apache.org/repos/asf"
+   revision="424114"
+   last-author="jochen"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/server/src/main/java/org/apache/xmlrpc/webserver"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="423226"
+   kind="dir"
+   committed-date="2006-07-18T20:05:46.998100Z"/>
+<entry
+   name="Connection.java"
+   checksum="822bf7099fafca1e71bf408fdf340432"
+   last-author="jochen"
+   committed-rev="409238"
+   text-time="2006-07-12T20:50:29.439000Z"
+   kind="file"
+   committed-date="2006-05-24T20:07:25.600937Z"
+   prop-time="2006-07-12T20:50:29.298375Z"/>
+<entry
+   name="ConnectionServer.java"
+   checksum="022e913748a5c54d775eb31bf6a47e5b"
+   last-author="jochen"
+   committed-rev="409238"
+   text-time="2006-07-12T20:50:29.579625Z"
+   kind="file"
+   committed-date="2006-05-24T20:07:25.600937Z"
+   prop-time="2006-07-12T20:50:29.407750Z"/>
+<entry
+   name="HttpServletRequestImpl.java"
+   checksum="12d7b773d76a8dffb78b282a0506eebf"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:29.439000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:29.314000Z"/>
+<entry
+   name="HttpServletResponseImpl.java"
+   checksum="35856772f85e69494b8793871aa032f8"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:29.564000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:29.392125Z"/>
+<entry
+   name="RequestData.java"
+   checksum="9acdb40aa0293e2066317a8e67bef4a7"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:29.517125Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:29.345250Z"/>
+<entry
+   name="ServletConnection.java"
+   checksum="274a4e423c3ec5bf8e4f9a3b1d6a33f8"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:29.532750Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:29.376500Z"/>
+<entry
+   name="ServletOutputStreamImpl.java"
+   checksum="3ca44fcb6ad75e8e7b79ff1353307a50"
+   last-author="jochen"
+   committed-rev="379644"
+   text-time="2006-07-12T20:50:29.532750Z"
+   kind="file"
+   committed-date="2006-02-22T01:12:16.973872Z"
+   prop-time="2006-07-12T20:50:29.360875Z"/>
+<entry
+   name="ServletWebServer.java"
+   revision="436953"
+   checksum="a2415970f5367d7059da0104072daf8e"
+   last-author="jochen"
+   text-time="2006-08-25T23:57:33.000000Z"
+   committed-rev="436953"
+   kind="file"
+   committed-date="2006-08-25T21:09:58.070000Z"/>
+<entry
+   name="WebServer.java"
+   revision="436953"
+   checksum="295998050d77d044e131ccf2d109d975"
+   last-author="jochen"
+   committed-rev="436953"
+   text-time="2006-08-25T23:56:58.000000Z"
+   kind="file"
+   committed-date="2006-08-25T21:09:58.070000Z"/>
+<entry
+   name="XmlRpcServlet.java"
+   revision="438613"
+   checksum="c202c050857b7eb7e89b51f0966e18c9"
+   last-author="jochen"
+   text-time="2006-08-30T20:11:07.000000Z"
+   committed-rev="438613"
+   kind="file"
+   committed-date="2006-08-30T20:38:07.686000Z"/>
+<entry
+   name="XmlRpcServletServer.java"
+   checksum="64cf595b57b7f74fa3da1707d1d12312"
+   last-author="jochen"
+   committed-rev="413365"
+   text-time="2006-07-12T20:50:29.470250Z"
+   kind="file"
+   committed-date="2006-06-10T21:25:12.009254Z"
+   prop-time="2006-07-12T20:50:29.345250Z"/>
+</wc-entries>

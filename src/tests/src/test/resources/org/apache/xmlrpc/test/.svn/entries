@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/tests/src/test/resources/org/apache/xmlrpc/test"
+   committed-rev="416856"
+   kind="dir"
+   committed-date="2006-06-24T02:59:44.390081Z"/>
+<entry
+   name="AuthenticationTest.properties"
+   revision="432539"
+   checksum="b9f4433ff3368150ebcb26a60c86c553"
+   last-author="jochen"
+   text-time="2006-08-17T21:50:24.000000Z"
+   committed-rev="432539"
+   kind="file"
+   committed-date="2006-08-18T10:07:21.289000Z"
+   prop-time="2006-08-18T11:42:35.000000Z"/>
+<entry
+   name="BaseTest.properties"
+   checksum="01fb6b6de321987979a3582bedafc58b"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:27.814000Z"
+   committed-rev="378630"
+   kind="file"
+   committed-date="2006-02-17T21:19:58.457489Z"
+   prop-time="2006-07-12T20:50:27.767125Z"/>
+<entry
+   name="DynamicProxyTest.properties"
+   checksum="94276883975351551fb322daa4cabc61"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:27.798375Z"
+   committed-rev="413980"
+   kind="file"
+   committed-date="2006-06-13T20:38:36.092157Z"
+   prop-time="2006-07-12T20:50:27.767125Z"/>
+<entry
+   name="JiraTest.properties"
+   revision="423613"
+   checksum="8fd52a64072da0aedb7ae4ddc20f4854"
+   last-author="jochen"
+   text-time="2006-07-19T21:12:39.000000Z"
+   committed-rev="423613"
+   kind="file"
+   committed-date="2006-07-19T21:19:55.432000Z"
+   prop-time="2006-07-12T20:50:27.751500Z"/>
+</wc-entries>

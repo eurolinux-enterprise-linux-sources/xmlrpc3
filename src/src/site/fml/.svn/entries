@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/src/site/fml"
+   committed-rev="413365"
+   kind="dir"
+   committed-date="2006-06-10T21:25:12.009254Z"/>
+<entry
+   name="faq.fml"
+   revision="437223"
+   checksum="01106529bcaad5902ca43a4e392d5a2f"
+   last-author="jochen"
+   text-time="2006-08-26T23:24:42.000000Z"
+   committed-rev="437223"
+   kind="file"
+   committed-date="2006-08-26T20:16:50.071000Z"
+   prop-time="2006-07-12T20:50:31.954625Z"/>
+</wc-entries>

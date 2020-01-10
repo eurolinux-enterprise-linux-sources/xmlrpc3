@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   repos="https://svn.apache.org/repos/asf"
+   name=""
+   revision="421408"
+   last-author="jochen"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/common/src/main/java/org/apache/xmlrpc/util"
+   committed-rev="408093"
+   kind="dir"
+   committed-date="2006-05-20T21:10:47.837221Z"/>
+<entry
+   name="HttpUtil.java"
+   revision="432537"
+   checksum="2f4a54c368a8e6b3503ca77bc7c4640a"
+   last-author="jochen"
+   text-time="2006-08-17T22:31:01.000000Z"
+   committed-rev="432537"
+   kind="file"
+   committed-date="2006-08-18T09:55:18.780000Z"
+   prop-time="2006-07-12T20:50:36.267125Z"/>
+<entry
+   name="LimitedInputStream.java"
+   checksum="b92e85b0aae44b745b88a3270a5fdfd6"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:36.282750Z"
+   committed-rev="378632"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:36.204625Z"/>
+<entry
+   name="SAXParsers.java"
+   checksum="8d3f096364e15b13c3e18eaa04b91376"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:36.314000Z"
+   committed-rev="380254"
+   kind="file"
+   committed-date="2006-02-23T22:35:40.130076Z"
+   prop-time="2006-07-12T20:50:36.235875Z"/>
+<entry
+   name="ThreadPool.java"
+   revision="433098"
+   checksum="1cd631d7b0fa2f6e2b29d4ff1f201f52"
+   last-author="jochen"
+   text-time="2006-08-21T01:42:00.000000Z"
+   committed-rev="433098"
+   kind="file"
+   committed-date="2006-08-21T00:21:56.317000Z"
+   prop-time="2006-07-12T20:50:36.189000Z"/>
+<entry
+   name="XmlRpcDateTimeDateFormat.java"
+   checksum="abaea1803bbd728f516680e03451edc3"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:36.298375Z"
+   committed-rev="408093"
+   kind="file"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   prop-time="2006-07-12T20:50:36.220250Z"/>
+<entry
+   name="XmlRpcDateTimeFormat.java"
+   checksum="037334fd500635a932f7b789e8043fc6"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:36.329625Z"
+   committed-rev="408093"
+   kind="file"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   prop-time="2006-07-12T20:50:36.235875Z"/>
+<entry
+   name="XmlRpcIOException.java"
+   checksum="b98dd71785721bd70a7909d83d1b22fc"
+   last-author="jochen"
+   text-time="2006-07-12T20:50:36.329625Z"
+   committed-rev="388850"
+   kind="file"
+   committed-date="2006-03-25T23:00:43.014332Z"
+   prop-time="2006-07-12T20:50:36.251500Z"/>
+</wc-entries>

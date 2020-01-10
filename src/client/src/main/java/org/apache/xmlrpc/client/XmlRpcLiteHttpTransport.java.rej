@@ -1,0 +1,20 @@
+@@ -120,6 +120,10 @@
+ 			throw new XmlRpcClientException("Failed to close connection: " + e.getMessage(), e);
+ 		}
+ 	}
++	
++	protected Socket createSocket(String hostname, int port) throws IOException {
++		return new Socket(hostname, port);
++	}
+ 
+ 	private OutputStream getOutputStream() throws XmlRpcException {
+ 		try {
+@@ -128,7 +132,7 @@
+ 	
+ 			for (int tries = 0;  ;  tries++) {
+ 				try {
+-					socket = new Socket(hostname, port);
++					socket = createSocket(hostname, port);
+ 					output = new BufferedOutputStream(socket.getOutputStream()){
+ 						/** Closing the output stream would close the whole socket, which we don't want,
+ 						 * because the don't want until the request is processed completely.

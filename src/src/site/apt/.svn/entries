@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"
+   last-author="jochen"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/src/site/apt"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   committed-rev="414392"
+   kind="dir"
+   committed-date="2006-06-14T21:40:48.441089Z"/>
+<entry
+   name="advanced.apt"
+   revision="433819"
+   checksum="09f8e5d898133d5afae1cb738fb42367"
+   last-author="jochen"
+   committed-rev="433819"
+   text-time="2006-08-23T02:24:23.000000Z"
+   kind="file"
+   committed-date="2006-08-23T01:06:11.137000Z"
+   prop-time="2006-07-12T20:50:31.064000Z"/>
+<entry
+   name="client.apt"
+   revision="436953"
+   checksum="c09a105291e6d1320b456a1ce3a5bc7d"
+   last-author="jochen"
+   committed-rev="436953"
+   text-time="2006-08-25T23:58:29.000000Z"
+   kind="file"
+   committed-date="2006-08-25T21:09:58.070000Z"
+   prop-time="2006-07-12T20:50:31.032750Z"/>
+<entry
+   name="contributing.apt"
+   revision="424115"
+   checksum="0159f8222bac95bc7676d23ace4e6724"
+   last-author="jochen"
+   committed-rev="424115"
+   text-time="2006-07-20T23:07:27.000000Z"
+   kind="file"
+   committed-date="2006-07-20T23:39:09.713000Z"
+   prop-time="2006-07-12T20:50:31.064000Z"/>
+<entry
+   name="download.apt"
+   checksum="02559566e26b78a937b4501b96cc6bba"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:31.189000Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:31.064000Z"/>
+<entry
+   name="extensions.apt"
+   checksum="f4d6a3d69699fe0b3d656af3019a8987"
+   last-author="jochen"
+   committed-rev="378632"
+   text-time="2006-07-12T20:50:31.095250Z"
+   kind="file"
+   committed-date="2006-02-17T21:27:38.606624Z"
+   prop-time="2006-07-12T20:50:31.048375Z"/>
+<entry
+   name="index.apt"
+   checksum="5dbd85ac598695320cc732acbd6223f4"
+   last-author="jochen"
+   committed-rev="408093"
+   text-time="2006-07-12T20:50:31.189000Z"
+   kind="file"
+   committed-date="2006-05-20T21:10:47.837221Z"
+   prop-time="2006-07-12T20:50:31.079625Z"/>
+<entry
+   name="links.apt"
+   checksum="fc98b69f1b0cc5ce7130554ec6ddbf4a"
+   last-author="jochen"
+   committed-rev="405941"
+   text-time="2006-07-12T20:50:31.110875Z"
+   kind="file"
+   committed-date="2006-05-12T23:25:03.703842Z"
+   prop-time="2006-07-12T20:50:31.048375Z"/>
+<entry
+   name="server.apt"
+   revision="436953"
+   checksum="81f80135b966a98fb5761297c8660d03"
+   last-author="jochen"
+   committed-rev="436953"
+   text-time="2006-08-26T00:03:42.000000Z"
+   kind="file"
+   committed-date="2006-08-25T21:09:58.070000Z"
+   prop-time="2006-07-12T20:50:31.064000Z"/>
+<entry
+   name="ssl.apt"
+   revision="422130"
+   checksum="1b81b463152bfd38e8c3d74b43061a4d"
+   last-author="jochen"
+   committed-rev="422130"
+   text-time="2006-07-15T01:57:02.937500Z"
+   kind="file"
+   committed-date="2006-07-15T01:58:34.264980Z"/>
+<entry
+   name="types.apt"
+   revision="423606"
+   checksum="c7aba55b0382d4bb0090a8aebcf7f727"
+   last-author="jochen"
+   committed-rev="423606"
+   text-time="2006-07-19T21:01:40.000000Z"
+   kind="file"
+   committed-date="2006-07-19T21:06:08.301000Z"
+   prop-time="2006-07-12T20:50:31.048375Z"/>
+</wc-entries>

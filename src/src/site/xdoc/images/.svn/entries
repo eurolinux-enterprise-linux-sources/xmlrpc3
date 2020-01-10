@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="233848"
+   name=""
+   committed-date="2003-01-30T13:57:14.000000Z"
+   url="https://svn.apache.org/repos/asf/webservices/xmlrpc/trunk/src/site/xdoc/images"
+   last-author="mpoeschl"
+   kind="dir"
+   uuid="13f79535-47bb-0310-9956-ffa450edef68"
+   repos="https://svn.apache.org/repos/asf"
+   revision="421408"/>
+<entry
+   committed-rev="233600"
+   name="feather.gif"
+   text-time="2006-07-12T20:50:31.470250Z"
+   committed-date="2001-11-02T06:14:25.000000Z"
+   checksum="aef037222b050ab2bc363fcd2c2395fb"
+   last-author="dlr"
+   kind="file"
+   prop-time="2006-07-12T20:50:31.345250Z"/>
+<entry
+   committed-rev="233814"
+   name="xml-logo.gif"
+   text-time="2006-07-12T20:50:31.485875Z"
+   committed-date="2002-10-13T15:06:57.000000Z"
+   checksum="4325d3d87534f03b31e98a671cd7ec8d"
+   last-author="mpoeschl"
+   kind="file"
+   prop-time="2006-07-12T20:50:31.360875Z"/>
+<entry
+   committed-rev="233848"
+   name="project-logo.jpg"
+   text-time="2006-07-12T20:50:31.579625Z"
+   committed-date="2003-01-30T13:57:14.000000Z"
+   checksum="312b389f78d83cf69aca3ac51b16c504"
+   last-author="mpoeschl"
+   kind="file"
+   prop-time="2006-07-12T20:50:31.376500Z"/>
+<entry
+   committed-rev="233599"
+   name="xmlrpc-logo.gif"
+   text-time="2006-07-12T20:50:31.610875Z"
+   committed-date="2001-11-01T14:49:16.000000Z"
+   checksum="8be2a064627024e1dbc72b5a59e9703a"
+   last-author="jvanzyl"
+   kind="file"
+   prop-time="2006-07-12T20:50:31.423375Z"/>
+<entry
+   committed-rev="233828"
+   name="group-logo.gif"
+   text-time="2006-07-12T20:50:31.626500Z"
+   committed-date="2002-11-26T11:39:17.000000Z"
+   checksum="c13ee914393c07634b55d38a4ff1c261"
+   last-author="mpoeschl"
+   kind="file"
+   prop-time="2006-07-12T20:50:31.439000Z"/>
+</wc-entries>
