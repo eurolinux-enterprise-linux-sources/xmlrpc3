@@ -33,7 +33,7 @@
 
 Name:       xmlrpc3
 Version:    3.0
-Release:    4.15%{?dist}
+Release:    4.17%{?dist}
 Summary:    Java XML-RPC implementation
 License:    ASL 2.0
 Group:      Development/Libraries
@@ -56,6 +56,7 @@ Patch2:     %{name}-common-addosgimanifest.patch
 %else
 Patch3:     %{name}-ant-osgimanifests.patch
 %endif
+Patch4:     %{name}-disallow-deserialization-of-ex-serializable-tags.patch
 
 BuildRequires:  dos2unix
 %if %{with_maven}
@@ -171,6 +172,7 @@ tar jxf %{SOURCE2}
 tar jxf %{SOURCE3}
 %patch3
 %endif
+%patch4 -p1
 
 export MAVEN_REPO_LOCAL=$(pwd)/.m2/repository
 rm -rf $MAVEN_REPO_LOCAL
@@ -332,6 +334,14 @@ rm -rf $RPM_BUILD_ROOT
 %{_javadir}/%{name}-server-%{version}-sources.jar
 
 %changelog
+* Wed May 23 2018 Michael Simacek <msimacek@redhat.com> - 3.0-4.17
+- Rebase patch to avoid orig files in source JAR
+- Related: CVE-2016-5003
+
+* Wed May 23 2018 Michael Simacek <msimacek@redhat.com> - 3.0-4.16
+- Disallow deserialization of <ex:serializable> tags by default
+- Resolves: CVE-2016-5003
+
 * Fri Feb 19 2010 Andrew Overholt <overholt@redhat.com> 3.0-4.15
 - Use archive.apache.org.
 
